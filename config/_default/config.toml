@@ -1,4 +1,4 @@
-baseurl = "tarmanachels.github.io"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
